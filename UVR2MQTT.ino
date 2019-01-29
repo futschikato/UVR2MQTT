@@ -13,7 +13,7 @@ String rssi;
 
 const char* ssid = "WLAN Name";  // SSID deines WLAN Netzwerkes
 const char* wlan_passwd = "dasPasswort"; // Passwort deines WLAN Netzwerkes
-char* esp_hostname = "BL-NET";
+char* esp_hostname = "UVR2MQTT";
 
 const char* mqtt_server = "mqtt-server"; // MQTT Server
 
