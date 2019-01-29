@@ -11,7 +11,7 @@ boolean mqtt_connect(void) {
     mqtt_client.setServer(mqtt_server, 1883);
     //mqtt_client.setCallback(callback);
     
-    mqtt_client.connect("BL-NET");
+    mqtt_client.connect("UVR2MQTT");
     Serial.print("MQTT Connection: ");
     while (!mqtt_client.connected()) 
     {
