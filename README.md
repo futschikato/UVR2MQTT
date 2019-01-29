@@ -6,3 +6,8 @@ Der Anschluss an den DL-Bus der UVR1611 mit einem einfachen Spannungsteiler:
 
 
 ![Anschlusschema UVR1611 NodeMCU](https://github.com/futschikato/UVR2MQTT/raw/master/pic/uvr_nodemcu.png)
+
+
+Output von MQTTfx:
+
+![MQTTfx Output](https://github.com/futschikato/UVR2MQTT/raw/master/pic/mqttfx.png)
