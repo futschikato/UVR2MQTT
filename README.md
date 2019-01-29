@@ -1,5 +1,5 @@
 # UVR2MQTT
-Auslesen des DL-Busses der UVR1611 mit einem ESP8266 (hier NodeMCU) und Weitergabe der Daten per MQTT.
+Auslesen des DL-Busses der UVR1611 mit einem ESP8266 (hier NodeMCU) und Weitergabe der Daten alle 60 Sekunden per MQTT.
 
 
 Der Anschluss an den DL-Bus der UVR1611 mit einem einfachen Spannungsteiler (keine galvanische Trennung!):
